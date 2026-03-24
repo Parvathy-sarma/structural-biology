@@ -1,0 +1,807 @@
+[
+    {
+        "pdb_id": "1UK0",
+        "resolution": 3.0,
+        "method": "X-ray",
+        "year": "2003",
+        "organism": null
+    },
+    {
+        "pdb_id": "1UK1",
+        "resolution": 3.0,
+        "method": "X-ray",
+        "year": "2003",
+        "organism": null
+    },
+    {
+        "pdb_id": "1WOK",
+        "resolution": 3.0,
+        "method": "X-ray",
+        "year": "2004",
+        "organism": null
+    },
+    {
+        "pdb_id": "2COK",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2005",
+        "organism": null
+    },
+    {
+        "pdb_id": "2CR9",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2005",
+        "organism": null
+    },
+    {
+        "pdb_id": "2CS2",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2005",
+        "organism": null
+    },
+    {
+        "pdb_id": "2DMJ",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2006",
+        "organism": null
+    },
+    {
+        "pdb_id": "2JVN",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2007",
+        "organism": null
+    },
+    {
+        "pdb_id": "2L30",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2010",
+        "organism": null
+    },
+    {
+        "pdb_id": "2L31",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2010",
+        "organism": null
+    },
+    {
+        "pdb_id": "2N8A",
+        "resolution": null,
+        "method": "NMR",
+        "year": "2015",
+        "organism": null
+    },
+    {
+        "pdb_id": "2RCW",
+        "resolution": 2.8,
+        "method": "X-ray",
+        "year": "2007",
+        "organism": null
+    },
+    {
+        "pdb_id": "2RD6",
+        "resolution": 2.3,
+        "method": "X-ray",
+        "year": "2007",
+        "organism": null
+    },
+    {
+        "pdb_id": "2RIQ",
+        "resolution": 1.7,
+        "method": "X-ray",
+        "year": "2007",
+        "organism": null
+    },
+    {
+        "pdb_id": "3GJW",
+        "resolution": 2.3,
+        "method": "X-ray",
+        "year": "2009",
+        "organism": null
+    },
+    {
+        "pdb_id": "3GN7",
+        "resolution": 2.5,
+        "method": "X-ray",
+        "year": "2009",
+        "organism": null
+    },
+    {
+        "pdb_id": "3L3L",
+        "resolution": 2.5,
+        "method": "X-ray",
+        "year": "2009",
+        "organism": null
+    },
+    {
+        "pdb_id": "3L3M",
+        "resolution": 2.5,
+        "method": "X-ray",
+        "year": "2009",
+        "organism": null
+    },
+    {
+        "pdb_id": "3OD8",
+        "resolution": 2.4,
+        "method": "X-ray",
+        "year": "2010",
+        "organism": null
+    },
+    {
+        "pdb_id": "3ODA",
+        "resolution": 2.64,
+        "method": "X-ray",
+        "year": "2010",
+        "organism": null
+    },
+    {
+        "pdb_id": "3ODC",
+        "resolution": 2.8,
+        "method": "X-ray",
+        "year": "2010",
+        "organism": null
+    },
+    {
+        "pdb_id": "3ODE",
+        "resolution": 2.95,
+        "method": "X-ray",
+        "year": "2010",
+        "organism": null
+    },
+    {
+        "pdb_id": "4AV1",
+        "resolution": 3.1,
+        "method": "X-ray",
+        "year": "2012",
+        "organism": null
+    },
+    {
+        "pdb_id": "4DQY",
+        "resolution": 3.25,
+        "method": "X-ray",
+        "year": "2012",
+        "organism": null
+    },
+    {
+        "pdb_id": "4DQY",
+        "resolution": 3.25,
+        "method": "X-ray",
+        "year": "2012",
+        "organism": null
+    },
+    {
+        "pdb_id": "4DQY",
+        "resolution": 3.25,
+        "method": "X-ray",
+        "year": "2012",
+        "organism": null
+    },
+    {
+        "pdb_id": "4GV7",
+        "resolution": 2.89,
+        "method": "X-ray",
+        "year": "2012",
+        "organism": null
+    },
+    {
+        "pdb_id": "4HHY",
+        "resolution": 2.3637,
+        "method": "X-ray",
+        "year": "2012",
+        "organism": null
+    },
+    {
+        "pdb_id": "4HHZ",
+        "resolution": 2.7199,
+        "method": "X-ray",
+        "year": "2012",
+        "organism": null
+    },
+    {
+        "pdb_id": "4L6S",
+        "resolution": 2.2,
+        "method": "X-ray",
+        "year": "2013",
+        "organism": null
+    },
+    {
+        "pdb_id": "4OPX",
+        "resolution": 3.314,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4OPX",
+        "resolution": 3.314,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4OQA",
+        "resolution": 3.65,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4OQA",
+        "resolution": 3.65,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4OQB",
+        "resolution": 3.362,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4OQB",
+        "resolution": 3.362,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4PJT",
+        "resolution": 2.35,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4R5W",
+        "resolution": 2.84,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4R6E",
+        "resolution": 2.2,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4RV6",
+        "resolution": 3.19,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4UND",
+        "resolution": 2.2,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4UXB",
+        "resolution": 3.22,
+        "method": "X-ray",
+        "year": "2014",
+        "organism": null
+    },
+    {
+        "pdb_id": "4XHU",
+        "resolution": 2.089,
+        "method": "X-ray",
+        "year": "2015",
+        "organism": null
+    },
+    {
+        "pdb_id": "4ZZZ",
+        "resolution": 1.9,
+        "method": "X-ray",
+        "year": "2015",
+        "organism": null
+    },
+    {
+        "pdb_id": "5A00",
+        "resolution": 2.75,
+        "method": "X-ray",
+        "year": "2015",
+        "organism": null
+    },
+    {
+        "pdb_id": "5DS3",
+        "resolution": 2.6,
+        "method": "X-ray",
+        "year": "2015",
+        "organism": null
+    },
+    {
+        "pdb_id": "5HA9",
+        "resolution": 4.01,
+        "method": "X-ray",
+        "year": "2015",
+        "organism": null
+    },
+    {
+        "pdb_id": "5KPN",
+        "resolution": 2.3,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5KPO",
+        "resolution": 2.65,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5KPP",
+        "resolution": 2.33,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5KPQ",
+        "resolution": 2.55,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5WRQ",
+        "resolution": 2.65,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5WRY",
+        "resolution": 2.3,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5WRZ",
+        "resolution": 2.2,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5WS0",
+        "resolution": 2.6,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5WS1",
+        "resolution": 1.9,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5WTC",
+        "resolution": 2.2,
+        "method": "X-ray",
+        "year": "2016",
+        "organism": null
+    },
+    {
+        "pdb_id": "5XSR",
+        "resolution": 2.3,
+        "method": "X-ray",
+        "year": "2017",
+        "organism": null
+    },
+    {
+        "pdb_id": "5XST",
+        "resolution": 2.3,
+        "method": "X-ray",
+        "year": "2017",
+        "organism": null
+    },
+    {
+        "pdb_id": "5XSU",
+        "resolution": 2.4,
+        "method": "X-ray",
+        "year": "2017",
+        "organism": null
+    },
+    {
+        "pdb_id": "6BHV",
+        "resolution": 2.3,
+        "method": "X-ray",
+        "year": "2017",
+        "organism": null
+    },
+    {
+        "pdb_id": "6GHK",
+        "resolution": 2.28,
+        "method": "X-ray",
+        "year": "2018",
+        "organism": null
+    },
+    {
+        "pdb_id": "6M3I",
+        "resolution": 1.98,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "6NRF",
+        "resolution": 2.0,
+        "method": "X-ray",
+        "year": "2019",
+        "organism": null
+    },
+    {
+        "pdb_id": "6NRG",
+        "resolution": 1.7,
+        "method": "X-ray",
+        "year": "2019",
+        "organism": null
+    },
+    {
+        "pdb_id": "6NRH",
+        "resolution": 1.5,
+        "method": "X-ray",
+        "year": "2019",
+        "organism": null
+    },
+    {
+        "pdb_id": "6NRI",
+        "resolution": 2.2,
+        "method": "X-ray",
+        "year": "2019",
+        "organism": null
+    },
+    {
+        "pdb_id": "6NRJ",
+        "resolution": 1.65,
+        "method": "X-ray",
+        "year": "2019",
+        "organism": null
+    },
+    {
+        "pdb_id": "6NTU",
+        "resolution": 1.8,
+        "method": "X-ray",
+        "year": "2019",
+        "organism": null
+    },
+    {
+        "pdb_id": "6VKK",
+        "resolution": 2.1,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "6VKO",
+        "resolution": 2.8,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "6VKQ",
+        "resolution": 2.9,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "6XVW",
+        "resolution": 2.0,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7AAA",
+        "resolution": 1.74,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7AAB",
+        "resolution": 2.8,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7AAC",
+        "resolution": 1.593,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7AAD",
+        "resolution": 2.21,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7CMW",
+        "resolution": 2.7,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7KK2",
+        "resolution": 1.695,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7KK3",
+        "resolution": 2.06,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7KK4",
+        "resolution": 1.96,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7KK5",
+        "resolution": 1.7,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7KK6",
+        "resolution": 2.06,
+        "method": "X-ray",
+        "year": "2020",
+        "organism": null
+    },
+    {
+        "pdb_id": "7ONR",
+        "resolution": 2.05,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7ONS",
+        "resolution": 1.97,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7ONT",
+        "resolution": 1.853,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S68",
+        "resolution": 3.3,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S68",
+        "resolution": 3.3,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S6H",
+        "resolution": 3.1,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S6H",
+        "resolution": 3.1,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S6M",
+        "resolution": 3.2,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S6M",
+        "resolution": 3.2,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S81",
+        "resolution": 3.6,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S81",
+        "resolution": 3.6,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7S81",
+        "resolution": 3.6,
+        "method": "X-ray",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7SCY",
+        "resolution": 4.1,
+        "method": "EM",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "7SCZ",
+        "resolution": 3.5,
+        "method": "EM",
+        "year": "2021",
+        "organism": null
+    },
+    {
+        "pdb_id": "8FYY",
+        "resolution": 2.8,
+        "method": "X-ray",
+        "year": "2023",
+        "organism": null
+    },
+    {
+        "pdb_id": "8FYZ",
+        "resolution": 3.4,
+        "method": "X-ray",
+        "year": "2023",
+        "organism": null
+    },
+    {
+        "pdb_id": "8FZ1",
+        "resolution": 2.7,
+        "method": "X-ray",
+        "year": "2023",
+        "organism": null
+    },
+    {
+        "pdb_id": "8G0H",
+        "resolution": 3.8,
+        "method": "X-ray",
+        "year": "2023",
+        "organism": null
+    },
+    {
+        "pdb_id": "8G0H",
+        "resolution": 3.8,
+        "method": "X-ray",
+        "year": "2023",
+        "organism": null
+    },
+    {
+        "pdb_id": "8HE7",
+        "resolution": 2.1,
+        "method": "X-ray",
+        "year": "2022",
+        "organism": null
+    },
+    {
+        "pdb_id": "8HLR",
+        "resolution": 2.85,
+        "method": "X-ray",
+        "year": "2022",
+        "organism": null
+    },
+    {
+        "pdb_id": "8JNZ",
+        "resolution": 2.84,
+        "method": "X-ray",
+        "year": "2023",
+        "organism": null
+    },
+    {
+        "pdb_id": "8U4W",
+        "resolution": 3.02,
+        "method": "X-ray",
+        "year": "2023",
+        "organism": null
+    },
+    {
+        "pdb_id": "8VYH",
+        "resolution": 2.05,
+        "method": "X-ray",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9BPY",
+        "resolution": 2.8,
+        "method": "X-ray",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9CKC",
+        "resolution": 2.1,
+        "method": "X-ray",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9DMC",
+        "resolution": 3.0,
+        "method": "X-ray",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9ETQ",
+        "resolution": 1.59,
+        "method": "X-ray",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9ETR",
+        "resolution": 1.822,
+        "method": "X-ray",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9ILN",
+        "resolution": 2.49,
+        "method": "X-ray",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9MI8",
+        "resolution": 3.6,
+        "method": "EM",
+        "year": "2024",
+        "organism": null
+    },
+    {
+        "pdb_id": "9MJA",
+        "resolution": 4.3,
+        "method": "EM",
+        "year": "2024",
+        "organism": null
+    }
+]
