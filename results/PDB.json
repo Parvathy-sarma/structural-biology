@@ -1,0 +1,47 @@
+{
+    "query_id": "2807d768-1ae4-4c3e-a0e5-46fb84f2b505",
+    "result_type": "polymer_entity",
+    "total_count": 115,
+    "result_set": [
+        {
+            "identifier": "1UK0_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "1UK1_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "1WOK_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "2COK_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "2CR9_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "2CS2_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "2DMJ_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "2JVN_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "2L30_1",
+            "score": 1.0
+        },
+        {
+            "identifier": "2L31_1",
+            "score": 1.0
+        }
+    ]
+}
